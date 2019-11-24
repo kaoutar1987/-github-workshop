@@ -1,18 +1,17 @@
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Atelier Git Workflow</title>
-</head>
-
-<body>
-
-    <h1 class="some-heading">Git worflow</h1>
-
-</body>
-
-</html>
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .page-heading {
+    box-sizing: border-box;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 3.5rem;
+    padding: 5rem 3rem;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    color: #eb0f0f;
+    background-color: #e7e5e4;
+    letter-spacing: .15em;
+  }
+  
